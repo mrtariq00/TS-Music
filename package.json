@@ -1,6 +1,6 @@
 {
   "name": "tsmusic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TS Music API is a free and open-source music API providing song metadata, cover images, ratings, and audio streaming links.",
   "exports": {
     ".": "./index.js"
@@ -15,9 +15,9 @@
     "mp3 api",
     "open source music"
   ],
-  "homepage": "https://github.com/mrtariq00/TS-Music#readme",
+  "homepage": "https://mrtariq00.github.io/api-s/",
   "bugs": {
-    "url": "https://github.com/mrtariq00/TS-Music/issues"
+    "url": "https://github.com/mrtariq00/TS-Music"
   },
   "repository": {
     "type": "git",
