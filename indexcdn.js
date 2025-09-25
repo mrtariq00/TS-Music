@@ -19,4 +19,4 @@ async function getSongs() {
 // Example use:
 let TsMusic = await getSongs();
 
-export default TsMusic
+console.log(TsMusic);
