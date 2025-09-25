@@ -1,6 +1,6 @@
 {
   "name": "tsmusic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TS Music API is a free and open-source music API providing song metadata, cover images, ratings, and audio streaming links.",
   "exports": {
     ".": "./index.js"
